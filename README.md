@@ -1,4 +1,4 @@
 # CodePathInterview
 
-<img src='https://i.imgur.com/PFX8qsP.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/nfs2T' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
